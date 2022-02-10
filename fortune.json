@@ -1,8 +1,8 @@
 {
-  "mcap": "$911,999",
-  "price": "$25.71",
+  "mcap": "$NaN",
+  "price": "$0",
   "apy": "10-20 %",
-  "treasury": "$1,511,048",
-  "backing": "$40.31",
-  "lastupdate": "10/02/2022 19:13:38"
+  "treasury": "$NaN",
+  "backing": "$NaN",
+  "lastupdate": "10/02/2022 19:32:36"
 }
